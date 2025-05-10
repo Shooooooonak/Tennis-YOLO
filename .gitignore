@@ -1,0 +1,11 @@
+training/data/
+training/runs/
+training/tennis-ball-detection-6/
+tenv/
+trackers/__pycache__/
+mini_court/__pycache__/
+courtline_detector/__pycache__/
+constants/__pycache__/yolov8n.pt
+yolov8n.pt
+yolov8x.pt
+models/
